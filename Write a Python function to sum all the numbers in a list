@@ -1,0 +1,9 @@
+def summ( mylist ):
+
+    print("the list given is ", mylist)
+
+    sum= mylist[0]+mylist[1]+mylist[2]
+
+    print(sum)
+
+return 
