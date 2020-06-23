@@ -1,0 +1,11 @@
+def gunn( list1 ):
+
+    print("the list ",list1)
+
+    m= list1[0]*list1[1]*list1[2]*list1[3]*list1[4]
+
+    print("the multiple is =", m)
+
+    return
+
+def string_reverse(str1)
